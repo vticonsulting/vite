@@ -1,11 +1,9 @@
+// @ts-check
 import { defineStore } from 'pinia'
+import { useUserStore } from './user'
 
-export const useStore = defineStore({
-  id: 'store',
-})
-
-export const todos = defineStore({
-  id: 'todos',
+export const useTodoStore = defineStore({
+  id: 'todo',
   state: () => ({
     /** @type {{ text: string, id: number, isFinished: boolean }[]} */
     todos: [],
