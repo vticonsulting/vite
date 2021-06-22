@@ -1,0 +1,19 @@
+{
+  "@progress/kendo-data-query": "1.5.5",
+  "@progress/kendo-drawing": "1.13.7",
+  "@progress/kendo-licensing": "^1.1.4",
+  "@progress/kendo-vue-animation": "^2.2.4",
+  "@progress/kendo-vue-data-tools": "^2.2.4",
+  "@progress/kendo-vue-dateinputs": "^2.2.4",
+  "@progress/kendo-vue-dialogs": "^2.2.4",
+  "@progress/kendo-vue-dropdowns": "^2.2.4",
+  "@progress/kendo-vue-excel-export": "^2.2.4",
+  "@progress/kendo-vue-grid": "^2.2.4",
+  "@progress/kendo-vue-inputs": "^2.2.4",
+  "@progress/kendo-vue-intl": "^2.2.4",
+  "@progress/kendo-vue-pdf": "^2.2.4",
+  "@progress/kendo-vue-popup": "^2.2.4",
+  "cldr-core": "^39.0.0",
+  "cldr-dates-full": "^39.0.0",
+  "cldr-numbers-full": "^39.0.0"
+}
