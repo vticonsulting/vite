@@ -23,6 +23,9 @@ declare module 'vue' {
     PageHeading: typeof import('./src/components/Page/Heading.vue')['default']
     PageWrapper: typeof import('./src/components/Page/Wrapper.vue')['default']
     SectionWrapper: typeof import('./src/components/Section/Wrapper.vue')['default']
+    CatLeft: typeof import('./src/components/CatLeft.vue')['default']
+    CatRight: typeof import('./src/components/CatRight.vue')['default']
+    Heart: typeof import('./src/components/Heart.vue')['default']
   }
 }
 
