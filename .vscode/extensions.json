@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ms-azuretools.vscode-azurefunctions",
+    "antfu.vite",
+    "johnsoncodehk.volar",
+    "lokalise.i18n-ally",
+    "dbaeumer.vscode-eslint",
+    "csstools.postcss",
+    "dariofuzinato.vue-peek",
+    "DavidAnson.vscode-markdownlint"
+  ]
+}
